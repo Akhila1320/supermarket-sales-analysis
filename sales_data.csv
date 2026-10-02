@@ -1,0 +1,840 @@
+﻿Order_ID,Date,Branch,City,Product,Category,Quantity,Unit_Cost,Unit_Price,Payment_Method,Customer_Type
+10001,01-29-2025,B,Warangal,Soap,Personal Care,10,20,35,UPI,Normal
+10002,,B,Warangal,Rice,Grocery,7,40,55,Card,Normal
+10003,01-13-2025,B,Warangal,Tea,Beverage,5,60,85,UPI,Member
+10004,30/08/2025,B,Warangal,Tea,Beverage,6,60,85,Wallet,Normal
+10005,2025-07-16,D,Visakhapatnam,Biscuits,Snacks,3,,25,UPI,Member
+10006,2025-03-12,B,Warangal,Biscuits,Snacks,2,15,25,Cash,Normal
+10008,28/03/2025,C,Vijayawada,Shampoo,Personal Care,6,80,120,Wallet,Normal
+10009,24/05/2025,D,Visakhapatnam,Rice,Grocery,2,40,55,Card,Normal
+10010,30/05/2025,A,Hyderabad,Biscuits,Snacks,2,15,25,UPI,Normal
+10011,01-29-2025,B,Warangal,Biscuits,Snacks,5,15,25,Cash,Member
+10012,,B,Warangal,Tea,Beverage,2,60,85,UPI,Member
+10013,2025-02-12,D,Visakhapatnam,Shampoo,Personal Care,4,80,120,Cash,Member
+10014,2025-01-08,B,Warangal,Rice,Grocery,6,40,55,Wallet,Normal
+10015,01-28-2025,A,Hyderabad,Milk,Dairy,8,30,42,Card,Normal
+10016,05-29-2025,D,Visakhapatnam,Tea,Beverage,5,60,85,UPI,Normal
+10017,2025-10-07,D,Visakhapatnam,Milk,Dairy,5,30,42,Cash,Member
+10018,2025-09-22,D,Visakhapatnam,Biscuits,Snacks,9,15,25,Card,Normal
+10019,2025-12-10,C,Vijayawada,Biscuits,Snacks,3,15,25,Wallet,Member
+10020,26/02/2025,A,Hyderabad,Shampoo,Personal Care,3,80,120,Wallet,Member
+10021,22/04/2025,C,Vijayawada,Juice,Beverage,10,25,40,Cash,Normal
+10023,05-17-2025,C,Vijayawada,Soap,Personal Care,8,20,35,Card,Normal
+10024,13/06/2025,C,Vijayawada,Milk,Dairy,3,30,42,Cash,Member
+10026,03-12-2025,A,Hyderabad,Juice,Beverage,7,25,40,Wallet,Normal
+10027,06-17-2025,A,Hyderabad,Tea,Beverage,4,60,85,Card,Member
+10028,17/07/2025,D,Visakhapatnam,Tea,Beverage,9,60,85,UPI,Normal
+10029,06/11/2025,B,Warangal,Juice,Beverage,3,,40,Wallet,Normal
+10031,07-23-2025,A,Hyderabad,Juice,Beverage,2,25,40,Cash,Normal
+10032,06/01/2025,C,Vijayawada,Soap,Personal Care,6,20,35,UPI,Normal
+10033,28/07/2025,C,Vijayawada,Shampoo,Personal Care,3,80,120,Wallet,Normal
+10034,2025-10-05,A,Hyderabad,Milk,Dairy,10,30,42,Cash,Member
+10035,25/03/2025,B,Warangal,Milk,Dairy,4,30,42,Cash,Normal
+10036,10-22-2025,C,Vijayawada,Soap,Personal Care,1,20,35,Cash,Member
+10037,2025-03-13,B,Warangal,Milk,Dairy,2,30,42,Cash,Normal
+10038,26/11/2025,D,Visakhapatnam,Biscuits,Snacks,7,15,10,Cash,Normal
+10039,14/02/2025,A,Hyderabad,Tea,Beverage,6,60,85,UPI,Normal
+10040,2025-10-27,D,Visakhapatnam,Shampoo,Personal Care,9,80,120,UPI,Normal
+10041,03-23-2025,A,Hyderabad,Soap,Personal Care,8,20,35,Wallet,Member
+10043,01-19-2025,C,Vijayawada,Tea,Beverage,3,60,85,Card,Normal
+10044,2025-10-17,C,Vijayawada,Tea,Beverage,4,60,85,UPI,Normal
+10045,08-23-2025,B,Warangal,Biscuits,Snacks,5,15,25,Card,Member
+10046,01/06/2025,C,Vijayawada,Biscuits,Snacks,4,15,25,UPI,Member
+10047,09-25-2025,B,Warangal,Biscuits,Snacks,4,15,25,Wallet,Normal
+10048,2025-07-01,A,Hyderabad,Soap,Personal Care,4,20,35,Wallet,Member
+10049,2025-02-22,B,Warangal,Juice,Beverage,7,25,40,Card,Member
+10050,04/11/2025,B,Warangal,Shampoo,Personal Care,2,80,120,Wallet,Normal
+10051,30/05/2025,C,Vijayawada,Rice,Grocery,7,40,55,UPI,Member
+10052,18/02/2025,C,Vijayawada,Biscuits,Snacks,7,15,25,Card,Normal
+10053,2025-04-02,A,Hyderabad,Rice,Grocery,5,40,55,Cash,Normal
+10055,09-02-2025,A,Hyderabad,Tea,Beverage,7,60,85,Wallet,Normal
+10056,22/11/2025,D,Visakhapatnam,Tea,Beverage,5,60,85,UPI,Normal
+10057,12-15-2025,B,Warangal,Biscuits,Snacks,8,15,25,UPI,Member
+10058,07-18-2025,D,Visakhapatnam,Rice,Grocery,9,40,55,Wallet,Normal
+10059,01-07-2025,C,Vijayawada,Biscuits,Snacks,1,15,25,Cash,Normal
+10060,2025-02-17,C,Vijayawada,Juice,Beverage,3,25,40,UPI,Member
+10062,29/09/2025,B,Warangal,Biscuits,Snacks,1,15,25,Wallet,Normal
+10063,06/05/2025,C,Vijayawada,Tea,Beverage,7,60,85,Wallet,Normal
+10064,2025-08-11,C,Vijayawada,Biscuits,Snacks,6,,25,UPI,Member
+10066,30/04/2025,D,Visakhapatnam,Milk,Dairy,9,30,42,Cash,Member
+10067,12-05-2025,D,Visakhapatnam,Rice,Grocery,10,40,55,Cash,Normal
+10068,01-26-2025,C,Vijayawada,Soap,Personal Care,10,20,35,Card,Normal
+10069,07-17-2025,C,Vijayawada,Biscuits,Snacks,5,15,25,Card,Member
+10070,27/06/2025,C,Vijayawada,Juice,Beverage,1,25,40,UPI,Member
+10071,08-19-2025,A,Hyderabad,Rice,Grocery,1,40,55,Card,Normal
+10072,16/04/2025,A,Hyderabad,Shampoo,Personal Care,7,80,120,Wallet,Normal
+10073,12-07-2025,B,Warangal,Rice,Grocery,7,40,55,Card,Normal
+10074,2025-06-10,A,Hyderabad,Tea,Beverage,10,60,85,Wallet,Normal
+10075,16/07/2025,A,Hyderabad,Biscuits,Snacks,8,15,25,Card,Normal
+10077,03-29-2025,D,Visakhapatnam,Rice,Grocery,6,40,55,Cash,Member
+10079,14/04/2025,A,Hyderabad,Juice,Beverage,5,25,40,Wallet,Normal
+10080,2025-03-10,B,Warangal,Shampoo,Personal Care,3,80,120,Wallet,Normal
+10081,10/06/2025,D,Visakhapatnam,Rice,Grocery,7,40,55,Cash,Member
+10082,2025-11-25,D,Visakhapatnam,Juice,Beverage,4,25,40,Wallet,Member
+10083,11-03-2025,D,Visakhapatnam,Milk,Dairy,1,30,42,Card,Normal
+10085,2025-07-24,B,Warangal,Soap,Personal Care,6,,35,Cash,Normal
+10086,2025-04-09,A,Hyderabad,Tea,Beverage,7,60,85,Card,Member
+10087,2025-07-01,B,Warangal,Biscuits,Snacks,9,15,25,Cash,Normal
+10088,2025-06-02,C,Vijayawada,Tea,Beverage,4,60,85,UPI,Normal
+10089,29/11/2025,C,Vijayawada,Soap,Personal Care,6,20,35,Card,Normal
+10090,2025-11-21,A,Hyderabad,Shampoo,Personal Care,10,80,120,Cash,Normal
+10091,16/01/2025,D,Visakhapatnam,Biscuits,Snacks,7,15,25,Wallet,Normal
+10093,02/06/2025,A,Hyderabad,Biscuits,Snacks,3,15,25,UPI,Normal
+10094,02-27-2025,A,Hyderabad,Tea,Beverage,2,60,85,Cash,Member
+10095,17/05/2025,A,Hyderabad,Tea,Beverage,3,60,85,UPI,Member
+10096,2025-12-23,B,Warangal,Milk,Dairy,3,30,42,Card,Normal
+10098,09-18-2025,D,Visakhapatnam,Shampoo,Personal Care,4,80,75,Wallet,Member
+10099,22/09/2025,B,Warangal,Tea,Beverage,7,60,85,Cash,Member
+10100,10-27-2025,C,Vijayawada,Rice,Grocery,10,40,55,UPI,Member
+10102,2025-09-06,C,Vijayawada,Milk,Dairy,9,30,42,Card,Normal
+10103,2025-07-17,C,Vijayawada,Milk,Dairy,5,30,42,Cash,Normal
+10104,04-25-2025,B,Warangal,Rice,Grocery,5,40,55,Cash,Member
+10105,2025-11-01,C,Vijayawada,Milk,Dairy,6,30,42,Card,Member
+10106,2025-10-28,C,Vijayawada,Soap,Personal Care,7,20,35,UPI,Member
+10107,09-06-2025,C,Vijayawada,Soap,Personal Care,4,20,35,Cash,Member
+10108,03-28-2025,C,Vijayawada,Milk,Dairy,8,30,42,Wallet,Member
+10109,01-01-2025,D,Visakhapatnam,Juice,Beverage,3,25,40,Wallet,Member
+10110,16/02/2025,D,Visakhapatnam,Juice,Beverage,9,25,40,Wallet,Normal
+10111,02/08/2025,D,Visakhapatnam,Shampoo,Personal Care,5,80,120,Card,Normal
+10112,03-26-2025,B,Warangal,Shampoo,Personal Care,8,80,120,UPI,Normal
+10113,03-30-2025,D,Visakhapatnam,Soap,Personal Care,9,20,35,Cash,Normal
+10114,2025-08-26,A,Hyderabad,Shampoo,Personal Care,9,80,120,Card,Member
+10115,10/05/2025,A,Hyderabad,Shampoo,Personal Care,9,80,120,Wallet,Member
+10118,07-16-2025,A,Hyderabad,Milk,Dairy,6,30,42,Cash,Normal
+10119,09-13-2025,D,Visakhapatnam,Shampoo,Personal Care,2,80,120,Cash,Member
+10120,04-23-2025,B,Warangal,Milk,Dairy,4,30,42,UPI,Normal
+10121,01/11/2025,C,Vijayawada,Juice,Beverage,4,25,40,UPI,Normal
+10122,06/07/2025,C,Vijayawada,Rice,Grocery,8,40,55,UPI,Member
+10123,27/12/2025,C,Vijayawada,Soap,Personal Care,6,20,35,Cash,Member
+10126,12-19-2025,B,Warangal,Biscuits,Snacks,9,15,25,Cash,Normal
+10127,08-08-2025,C,Vijayawada,Biscuits,Snacks,1,15,25,Card,Member
+10128,30/11/2025,D,Visakhapatnam,Soap,Personal Care,9,20,35,Cash,Normal
+10129,23/08/2025,A,Hyderabad,Shampoo,Personal Care,6,80,120,UPI,Normal
+10130,07/09/2025,D,Visakhapatnam,Shampoo,Personal Care,7,80,120,Wallet,Member
+10131,07-11-2025,B,Warangal,Soap,Personal Care,7,20,35,UPI,Member
+10132,,D,Visakhapatnam,Tea,Beverage,2,60,85,UPI,Member
+10133,2025-06-16,D,Visakhapatnam,Milk,Dairy,1,30,42,UPI,Normal
+10134,28/01/2025,D,Visakhapatnam,Juice,Beverage,1,25,40,Card,Member
+10135,29/04/2025,B,Warangal,Milk,Dairy,3,30,42,Card,Normal
+10136,2025-04-29,B,Warangal,Tea,Beverage,9,60,85,Wallet,Member
+10137,2025-05-07,C,Vijayawada,Biscuits,Snacks,5,15,25,UPI,Normal
+10138,09-20-2025,B,Warangal,Biscuits,Snacks,4,15,25,UPI,Member
+10140,30/11/2025,B,Warangal,Milk,Dairy,9,,42,UPI,Member
+10141,06-09-2025,C,Vijayawada,Tea,Beverage,2,60,85,UPI,Member
+10142,07-27-2025,D,Visakhapatnam,Shampoo,Personal Care,1,80,120,UPI,Member
+10144,03-06-2025,D,Visakhapatnam,Milk,Dairy,3,30,42,Wallet,Normal
+10145,31/08/2025,D,Visakhapatnam,Tea,Beverage,10,60,85,Cash,Member
+10146,2025-10-14,B,Warangal,Juice,Beverage,6,25,40,Wallet,Member
+10147,2025-11-13,A,Hyderabad,Shampoo,Personal Care,6,80,120,UPI,Member
+10148,11-16-2025,D,Visakhapatnam,Biscuits,Snacks,10,15,25,Card,Normal
+10149,2025-08-02,C,Vijayawada,Shampoo,Personal Care,2,80,120,UPI,Normal
+10150,08-15-2025,B,Warangal,Shampoo,Personal Care,10,80,120,Cash,Normal
+10151,13/03/2025,C,Vijayawada,Biscuits,Snacks,3,15,25,Cash,Member
+10153,2025-03-16,D,Visakhapatnam,Milk,Dairy,7,30,42,Cash,Normal
+10155,16/01/2025,A,Hyderabad,Biscuits,Snacks,5,15,25,UPI,Normal
+10156,08/06/2025,D,Visakhapatnam,Shampoo,Personal Care,1,80,120,Wallet,Member
+10159,27/10/2025,A,Hyderabad,Biscuits,Snacks,1,15,25,Cash,Normal
+10161,2025-01-12,B,Warangal,Milk,Dairy,5,30,42,Wallet,Member
+10162,06-13-2025,C,Vijayawada,Tea,Beverage,8,60,85,Cash,Normal
+10163,21/08/2025,D,Visakhapatnam,Milk,Dairy,9,30,42,Wallet,Normal
+10165,2025-04-06,B,Warangal,Biscuits,Snacks,9,15,25,UPI,Member
+10166,2025-12-31,C,Vijayawada,Soap,Personal Care,10,20,35,UPI,Member
+10167,2025-11-11,C,Vijayawada,Milk,Dairy,8,30,42,Wallet,Normal
+10168,07-22-2025,D,Visakhapatnam,Biscuits,Snacks,3,15,25,Wallet,Member
+10171,01-19-2025,D,Visakhapatnam,Milk,Dairy,8,30,42,Cash,Normal
+10173,12/11/2025,A,Hyderabad,Shampoo,Personal Care,4,80,120,Cash,Member
+10174,17/03/2025,D,Visakhapatnam,Juice,Beverage,6,25,40,UPI,Normal
+10175,11-30-2025,C,Vijayawada,Soap,Personal Care,6,20,35,Card,Member
+10176,12-10-2025,A,Hyderabad,Rice,Grocery,3,40,55,Cash,Member
+10178,07/05/2025,A,Hyderabad,Soap,Personal Care,8,20,35,Cash,Member
+10179,,A,Hyderabad,Juice,Beverage,7,25,40,Wallet,Member
+10181,14/06/2025,B,Warangal,Tea,Beverage,6,60,85,Cash,Normal
+10182,2025-11-14,D,Visakhapatnam,Juice,Beverage,3,25,40,Cash,Member
+10183,27/01/2025,D,Visakhapatnam,Shampoo,Personal Care,2,80,120,UPI,Normal
+10184,2025-05-14,B,Warangal,Rice,Grocery,7,40,55,Card,Member
+10185,05-05-2025,C,Vijayawada,Milk,Dairy,6,30,42,Card,Normal
+10186,12-15-2025,B,Warangal,Rice,Grocery,7,40,55,UPI,Normal
+10187,11-22-2025,D,Visakhapatnam,Rice,Grocery,3,,55,Wallet,Normal
+10189,17/05/2025,C,Vijayawada,Biscuits,Snacks,4,15,25,UPI,Normal
+10190,08-03-2025,D,Visakhapatnam,Shampoo,Personal Care,1,80,75,Cash,Normal
+10191,2025-09-11,A,Hyderabad,Biscuits,Snacks,2,15,25,UPI,Member
+10192,05-26-2025,A,Hyderabad,Milk,Dairy,8,30,42,Wallet,Member
+10193,25/03/2025,D,Visakhapatnam,Soap,Personal Care,1,20,35,Card,Normal
+10194,03/01/2025,D,Visakhapatnam,Tea,Beverage,2,60,85,Cash,Normal
+10195,12/11/2025,A,Hyderabad,Rice,Grocery,5,40,55,UPI,Normal
+10196,21/10/2025,A,Hyderabad,Juice,Beverage,4,25,40,Card,Member
+10197,12-09-2025,B,Warangal,Biscuits,Snacks,9,15,25,UPI,Normal
+10199,02-22-2025,A,Hyderabad,Juice,Beverage,10,25,40,Cash,Member
+10200,21/05/2025,D,Visakhapatnam,Shampoo,Personal Care,6,80,120,Card,Normal
+10202,05-06-2025,B,Warangal,Rice,Grocery,6,40,55,Wallet,Member
+10203,01/07/2025,C,Vijayawada,Milk,Dairy,10,30,42,UPI,Member
+10204,10-02-2025,A,Hyderabad,Soap,Personal Care,2,20,35,Wallet,Normal
+10205,2025-02-26,D,Visakhapatnam,Tea,Beverage,6,60,85,UPI,Normal
+10206,2025-12-15,C,Vijayawada,Tea,Beverage,1,60,85,UPI,Member
+10208,03/12/2025,D,Visakhapatnam,Milk,Dairy,7,30,42,UPI,Normal
+10210,2025-01-04,B,Warangal,Biscuits,Snacks,6,15,25,UPI,Member
+10212,04-05-2025,D,Visakhapatnam,Biscuits,Snacks,6,15,25,Cash,Normal
+10213,22/03/2025,B,Warangal,Milk,Dairy,3,30,42,Cash,Member
+10214,05-01-2025,D,Visakhapatnam,Tea,Beverage,5,60,85,UPI,Member
+10215,31/05/2025,C,Vijayawada,Rice,Grocery,4,40,55,UPI,Normal
+10217,24/05/2025,C,Vijayawada,Biscuits,Snacks,3,15,10,Card,Normal
+10218,08-23-2025,A,Hyderabad,Shampoo,Personal Care,6,80,120,Card,Member
+10219,10-14-2025,B,Warangal,Milk,Dairy,10,30,42,Card,Normal
+10220,2025-03-23,A,Hyderabad,Biscuits,Snacks,9,15,25,Card,Member
+10221,06/09/2025,D,Visakhapatnam,Tea,Beverage,5,,85,Card,Normal
+10222,10-10-2025,D,Visakhapatnam,Biscuits,Snacks,9,15,25,UPI,Member
+10223,11-30-2025,B,Warangal,Rice,Grocery,6,40,55,UPI,Member
+10224,04/11/2025,D,Visakhapatnam,Milk,Dairy,2,30,42,Wallet,Member
+10225,01/11/2025,D,Visakhapatnam,Tea,Beverage,6,60,85,Wallet,Member
+10226,26/10/2025,D,Visakhapatnam,Shampoo,Personal Care,1,80,120,Card,Normal
+10227,26/06/2025,C,Vijayawada,Juice,Beverage,4,25,40,UPI,Normal
+10228,2025-07-27,C,Vijayawada,Juice,Beverage,5,25,40,UPI,Member
+10229,11/03/2025,D,Visakhapatnam,Juice,Beverage,7,25,40,UPI,Member
+10230,2025-10-06,C,Vijayawada,Soap,Personal Care,7,20,35,UPI,Member
+10232,30/05/2025,A,Hyderabad,Biscuits,Snacks,10,15,25,Card,Member
+10233,06/07/2025,B,Warangal,Juice,Beverage,3,25,40,Wallet,Normal
+10234,2025-01-24,A,Hyderabad,Shampoo,Personal Care,10,80,120,Wallet,Normal
+10235,04/04/2025,C,Vijayawada,Soap,Personal Care,5,20,35,Cash,Member
+10236,2025-12-25,A,Hyderabad,Tea,Beverage,2,60,85,Wallet,Member
+10238,27/01/2025,D,Visakhapatnam,Tea,Beverage,5,60,85,Wallet,Member
+10239,2025-05-09,C,Vijayawada,Soap,Personal Care,4,20,35,Cash,Member
+10240,2025-12-01,C,Vijayawada,Shampoo,Personal Care,6,80,120,Cash,Member
+10241,2025-11-07,A,Hyderabad,Juice,Beverage,2,25,40,Wallet,Normal
+10242,2025-04-06,C,Vijayawada,Shampoo,Personal Care,2,80,120,UPI,Normal
+10243,11-15-2025,D,Visakhapatnam,Shampoo,Personal Care,1,80,120,Cash,Member
+10244,2025-02-21,A,Hyderabad,Juice,Beverage,2,25,40,Wallet,Normal
+10245,08-11-2025,D,Visakhapatnam,Soap,Personal Care,3,20,15,Card,Normal
+10246,2025-04-20,B,Warangal,Biscuits,Snacks,3,15,25,UPI,Member
+10247,15/04/2025,A,Hyderabad,Shampoo,Personal Care,3,80,120,UPI,Member
+10248,12-04-2025,D,Visakhapatnam,Rice,Grocery,1,40,55,Cash,Member
+10249,2025-12-23,B,Warangal,Tea,Beverage,1,60,85,Card,Member
+10251,2025-06-19,C,Vijayawada,Juice,Beverage,6,25,40,Cash,Member
+10252,2025-03-08,D,Visakhapatnam,Shampoo,Personal Care,10,80,120,UPI,Normal
+10253,11-04-2025,A,Hyderabad,Soap,Personal Care,8,20,35,UPI,Normal
+10254,2025-06-30,D,Visakhapatnam,Soap,Personal Care,8,20,35,Wallet,Member
+10255,21/02/2025,D,Visakhapatnam,Rice,Grocery,3,40,55,Cash,Normal
+10256,2025-08-02,C,Vijayawada,Soap,Personal Care,8,20,35,UPI,Normal
+10257,2025-06-23,D,Visakhapatnam,Shampoo,Personal Care,6,80,120,Cash,Member
+10260,09/09/2025,C,Vijayawada,Juice,Beverage,4,25,40,Cash,Normal
+10262,2025-05-01,D,Visakhapatnam,Soap,Personal Care,7,20,35,Card,Normal
+10263,09-09-2025,C,Vijayawada,Juice,Beverage,10,25,40,Cash,Normal
+10264,07-02-2025,B,Warangal,Shampoo,Personal Care,5,80,75,UPI,Member
+10265,02-24-2025,B,Warangal,Biscuits,Snacks,8,15,25,UPI,Normal
+10267,2025-02-20,B,Warangal,Biscuits,Snacks,1,15,25,Wallet,Member
+10268,2025-03-03,B,Warangal,Shampoo,Personal Care,7,80,120,Card,Normal
+10269,07-19-2025,D,Visakhapatnam,Juice,Beverage,7,25,40,UPI,Normal
+10271,2025-08-01,B,Warangal,Juice,Beverage,1,25,40,Card,Member
+10272,17/10/2025,D,Visakhapatnam,Milk,Dairy,10,30,42,Wallet,Member
+10273,06-27-2025,B,Warangal,Milk,Dairy,5,30,42,Card,Normal
+10274,2025-06-08,C,Vijayawada,Rice,Grocery,10,40,35,UPI,Normal
+10275,04-23-2025,D,Visakhapatnam,Juice,Beverage,9,25,40,Cash,Member
+10276,11-08-2025,B,Warangal,Soap,Personal Care,6,20,35,Wallet,Normal
+10277,,A,Hyderabad,Soap,Personal Care,8,20,35,Wallet,Member
+10278,05-21-2025,B,Warangal,Tea,Beverage,8,60,85,Cash,Normal
+10279,11/11/2025,D,Visakhapatnam,Shampoo,Personal Care,1,80,120,Wallet,Member
+10281,06-22-2025,C,Vijayawada,Biscuits,Snacks,1,15,25,Cash,Normal
+10282,2025-05-20,B,Warangal,Rice,Grocery,3,40,55,UPI,Member
+10283,13/07/2025,C,Vijayawada,Shampoo,Personal Care,9,80,120,Card,Member
+10284,2025-02-20,B,Warangal,Milk,Dairy,10,30,42,Cash,Normal
+10285,17/09/2025,B,Warangal,Milk,Dairy,4,30,42,UPI,Normal
+10286,07-03-2025,C,Vijayawada,Rice,Grocery,1,40,55,UPI,Member
+10287,2025-03-02,C,Vijayawada,Soap,Personal Care,5,20,35,Card,Member
+10288,15/03/2025,A,Hyderabad,Milk,Dairy,2,30,42,Card,Member
+10289,09-14-2025,D,Visakhapatnam,Shampoo,Personal Care,3,80,120,Card,Member
+10290,03/10/2025,D,Visakhapatnam,Shampoo,Personal Care,7,80,120,Wallet,Normal
+10292,15/03/2025,B,Warangal,Tea,Beverage,8,60,85,Wallet,Normal
+10293,08-16-2025,A,Hyderabad,Rice,Grocery,2,,35,Card,Member
+10294,19/01/2025,A,Hyderabad,Tea,Beverage,3,60,85,Card,Normal
+10295,11-16-2025,B,Warangal,Rice,Grocery,5,40,55,Card,Normal
+10296,2025-03-07,C,Vijayawada,Shampoo,Personal Care,4,80,75,Wallet,Normal
+10297,2025-06-04,D,Visakhapatnam,Shampoo,Personal Care,7,80,120,Cash,Member
+10298,15/02/2025,A,Hyderabad,Juice,Beverage,7,25,40,Card,Normal
+10299,10-19-2025,D,Visakhapatnam,Tea,Beverage,7,,85,Card,Member
+10300,13/02/2025,A,Hyderabad,Juice,Beverage,2,25,40,Card,Normal
+10301,10-20-2025,B,Warangal,Juice,Beverage,4,25,20,Card,Normal
+10302,2025-11-13,B,Warangal,Biscuits,Snacks,9,15,25,Cash,Normal
+10303,2025-11-29,A,Hyderabad,Juice,Beverage,9,25,40,Cash,Member
+10304,05-14-2025,A,Hyderabad,Tea,Beverage,6,60,85,Card,Normal
+10305,06/04/2025,B,Warangal,Tea,Beverage,1,60,85,Card,Normal
+10306,2025-05-09,C,Vijayawada,Biscuits,Snacks,1,15,25,Cash,Normal
+10307,2025-07-27,C,Vijayawada,Rice,Grocery,10,40,55,Cash,Normal
+10309,13/04/2025,B,Warangal,Biscuits,Snacks,3,15,25,Cash,Member
+10311,2025-06-08,B,Warangal,Milk,Dairy,6,30,42,UPI,Normal
+10312,2025-01-02,C,Vijayawada,Shampoo,Personal Care,1,80,120,Wallet,Member
+10313,10/05/2025,D,Visakhapatnam,Soap,Personal Care,8,20,35,Cash,Member
+10314,11-12-2025,D,Visakhapatnam,Soap,Personal Care,10,20,35,Card,Member
+10315,10-13-2025,D,Visakhapatnam,Biscuits,Snacks,4,15,25,Card,Normal
+10316,,B,Warangal,Biscuits,Snacks,9,15,25,Card,Normal
+10317,2025-02-07,C,Vijayawada,Soap,Personal Care,10,20,35,Card,Normal
+10318,04-23-2025,D,Visakhapatnam,Rice,Grocery,1,40,55,Card,Normal
+10319,19/11/2025,C,Vijayawada,Rice,Grocery,4,40,55,Cash,Member
+10320,30/03/2025,C,Vijayawada,Tea,Beverage,4,60,85,UPI,Normal
+10321,11-07-2025,A,Hyderabad,Milk,Dairy,5,30,42,Card,Normal
+10322,07-27-2025,D,Visakhapatnam,Shampoo,Personal Care,8,80,120,Wallet,Normal
+10323,24/12/2025,C,Vijayawada,Rice,Grocery,2,40,55,Card,Member
+10324,2025-02-28,C,Vijayawada,Shampoo,Personal Care,8,80,120,UPI,Member
+10325,2025-08-25,B,Warangal,Shampoo,Personal Care,8,80,120,Card,Member
+10328,2025-12-03,B,Warangal,Tea,Beverage,1,60,85,Cash,Normal
+10329,2025-08-01,B,Warangal,Tea,Beverage,10,60,85,Wallet,Normal
+10330,11/04/2025,A,Hyderabad,Juice,Beverage,4,25,40,Card,Member
+10331,08-08-2025,D,Visakhapatnam,Shampoo,Personal Care,8,80,120,UPI,Member
+10332,2025-03-28,D,Visakhapatnam,Juice,Beverage,4,25,40,UPI,Member
+10335,01-25-2025,A,Hyderabad,Biscuits,Snacks,6,15,25,UPI,Normal
+10336,10-25-2025,C,Vijayawada,Rice,Grocery,4,40,55,UPI,Normal
+10337,13/03/2025,C,Vijayawada,Soap,Personal Care,10,20,35,Card,Member
+10338,2025-05-05,B,Warangal,Soap,Personal Care,9,20,35,Cash,Member
+10339,08-27-2025,C,Vijayawada,Juice,Beverage,5,25,40,UPI,Normal
+10340,03/10/2025,C,Vijayawada,Juice,Beverage,1,25,40,Wallet,Member
+10341,2025-04-05,A,Hyderabad,Shampoo,Personal Care,3,,120,Wallet,Member
+10343,10-21-2025,A,Hyderabad,Milk,Dairy,2,30,25,Cash,Normal
+10344,2025-05-03,A,Hyderabad,Soap,Personal Care,10,20,35,UPI,Member
+10345,2025-08-21,D,Visakhapatnam,Shampoo,Personal Care,4,80,120,UPI,Normal
+10346,2025-10-03,D,Visakhapatnam,Shampoo,Personal Care,6,80,120,Wallet,Normal
+10347,05/08/2025,A,Hyderabad,Juice,Beverage,10,25,40,UPI,Member
+10349,09-21-2025,D,Visakhapatnam,Soap,Personal Care,10,20,35,Card,Normal
+10350,2025-06-04,B,Warangal,Biscuits,Snacks,3,15,25,Wallet,Member
+10353,2025-03-14,B,Warangal,Rice,Grocery,5,40,55,Cash,Member
+10354,14/06/2025,B,Warangal,Shampoo,Personal Care,7,80,120,UPI,Normal
+10355,2025-11-11,C,Vijayawada,Tea,Beverage,9,60,85,UPI,Normal
+10356,03-17-2025,A,Hyderabad,Soap,Personal Care,7,,35,Wallet,Normal
+10357,06/05/2025,C,Vijayawada,Soap,Personal Care,2,20,35,Cash,Normal
+10358,2025-01-02,D,Visakhapatnam,Soap,Personal Care,3,20,35,Card,Member
+10359,12-03-2025,D,Visakhapatnam,Tea,Beverage,1,60,85,Cash,Normal
+10360,2025-06-07,A,Hyderabad,Biscuits,Snacks,2,15,25,Wallet,Member
+10361,12-24-2025,A,Hyderabad,Tea,Beverage,4,60,85,Cash,Normal
+10363,21/05/2025,B,Warangal,Shampoo,Personal Care,2,80,120,Wallet,Normal
+10364,2025-03-28,D,Visakhapatnam,Juice,Beverage,9,25,40,Cash,Member
+10365,2025-09-02,A,Hyderabad,Biscuits,Snacks,9,15,25,Wallet,Member
+10367,11/07/2025,D,Visakhapatnam,Tea,Beverage,7,60,85,UPI,Member
+10368,11-14-2025,D,Visakhapatnam,Tea,Beverage,3,60,85,Card,Normal
+10369,18/07/2025,B,Warangal,Soap,Personal Care,4,20,35,Cash,Member
+10371,06-23-2025,B,Warangal,Rice,Grocery,4,40,55,Card,Normal
+10372,2025-01-30,A,Hyderabad,Shampoo,Personal Care,7,80,75,UPI,Member
+10373,2025-10-27,C,Vijayawada,Shampoo,Personal Care,1,80,120,Wallet,Member
+10374,2025-06-24,B,Warangal,Rice,Grocery,9,40,55,Card,Normal
+10375,03-03-2025,D,Visakhapatnam,Juice,Beverage,9,25,40,Wallet,Member
+10376,23/11/2025,A,Hyderabad,Rice,Grocery,2,40,55,Wallet,Member
+10377,25/05/2025,A,Hyderabad,Shampoo,Personal Care,8,80,120,Wallet,Normal
+10378,10-01-2025,C,Vijayawada,Juice,Beverage,6,25,40,Card,Member
+10379,09-11-2025,B,Warangal,Soap,Personal Care,8,20,15,Card,Member
+10380,2025-09-21,D,Visakhapatnam,Rice,Grocery,3,40,55,Wallet,Normal
+10381,12-30-2025,A,Hyderabad,Juice,Beverage,8,25,40,Wallet,Member
+10382,27/08/2025,A,Hyderabad,Shampoo,Personal Care,9,80,120,Cash,Member
+10383,2025-04-30,D,Visakhapatnam,Tea,Beverage,6,60,85,Wallet,Normal
+10385,09/02/2025,D,Visakhapatnam,Milk,Dairy,5,30,42,UPI,Normal
+10386,15/03/2025,A,Hyderabad,Juice,Beverage,2,25,40,Card,Normal
+10387,29/08/2025,D,Visakhapatnam,Shampoo,Personal Care,9,80,120,UPI,Normal
+10388,2025-01-05,D,Visakhapatnam,Soap,Personal Care,9,20,35,Wallet,Normal
+10390,2025-11-19,A,Hyderabad,Milk,Dairy,1,30,42,Wallet,Normal
+10392,30/11/2025,A,Hyderabad,Milk,Dairy,2,30,42,UPI,Normal
+10394,2025-11-02,C,Vijayawada,Soap,Personal Care,4,20,35,Card,Normal
+10395,2025-03-10,A,Hyderabad,Tea,Beverage,6,60,85,UPI,Member
+10396,2025-01-20,C,Vijayawada,Shampoo,Personal Care,2,80,120,Wallet,Normal
+10397,07-29-2025,C,Vijayawada,Rice,Grocery,6,40,55,Card,Member
+10399,17/12/2025,A,Hyderabad,Tea,Beverage,8,60,85,Cash,Normal
+10400,02-15-2025,D,Visakhapatnam,Shampoo,Personal Care,7,80,120,Wallet,Normal
+10401,02-26-2025,C,Vijayawada,Soap,Personal Care,4,20,35,UPI,Normal
+10404,27/07/2025,A,Hyderabad,Shampoo,Personal Care,1,80,120,Wallet,Normal
+10405,2025-11-17,C,Vijayawada,Tea,Beverage,7,60,85,UPI,Member
+10406,04/02/2025,D,Visakhapatnam,Shampoo,Personal Care,3,80,120,Wallet,Normal
+10407,09-26-2025,D,Visakhapatnam,Rice,Grocery,10,40,55,UPI,Member
+10408,2025-01-19,C,Vijayawada,Shampoo,Personal Care,8,80,120,UPI,Normal
+10409,07-22-2025,B,Warangal,Biscuits,Snacks,8,15,25,UPI,Normal
+10410,01-17-2025,B,Warangal,Juice,Beverage,5,25,40,Card,Normal
+10411,23/08/2025,C,Vijayawada,Shampoo,Personal Care,2,80,120,Wallet,Member
+10412,16/04/2025,A,Hyderabad,Tea,Beverage,1,60,85,UPI,Member
+10413,2025-04-05,A,Hyderabad,Soap,Personal Care,8,20,35,UPI,Member
+10414,05-29-2025,A,Hyderabad,Juice,Beverage,6,25,40,UPI,Member
+10415,22/12/2025,A,Hyderabad,Tea,Beverage,8,60,85,Card,Normal
+10416,03/06/2025,D,Visakhapatnam,Juice,Beverage,10,25,40,Card,Member
+10417,05-13-2025,D,Visakhapatnam,Rice,Grocery,4,40,55,Card,Normal
+10418,06/03/2025,A,Hyderabad,Rice,Grocery,6,40,55,Wallet,Normal
+10419,2025-04-11,A,Hyderabad,Juice,Beverage,2,25,40,Card,Normal
+10420,2025-03-31,D,Visakhapatnam,Shampoo,Personal Care,3,80,120,UPI,Member
+10421,01-23-2025,D,Visakhapatnam,Tea,Beverage,5,60,85,Cash,Member
+10422,16/07/2025,D,Visakhapatnam,Biscuits,Snacks,7,15,25,Card,Normal
+10423,07-25-2025,D,Visakhapatnam,Shampoo,Personal Care,6,80,120,Wallet,Normal
+10424,04-09-2025,C,Vijayawada,Rice,Grocery,2,40,55,Cash,Member
+10425,01-05-2025,D,Visakhapatnam,Juice,Beverage,6,25,40,Cash,Member
+10426,11/05/2025,A,Hyderabad,Rice,Grocery,7,40,55,Card,Member
+10427,2025-10-30,D,Visakhapatnam,Rice,Grocery,3,40,55,Wallet,Normal
+10428,03-20-2025,C,Vijayawada,Biscuits,Snacks,9,15,25,Card,Member
+10429,14/04/2025,D,Visakhapatnam,Juice,Beverage,5,25,40,UPI,Member
+10430,15/04/2025,A,Hyderabad,Biscuits,Snacks,7,15,25,Wallet,Normal
+10431,2025-12-30,B,Warangal,Juice,Beverage,2,25,40,UPI,Normal
+10432,01-10-2025,A,Hyderabad,Soap,Personal Care,4,20,35,Cash,Normal
+10433,07/09/2025,A,Hyderabad,Shampoo,Personal Care,9,80,120,Cash,Normal
+10434,18/12/2025,A,Hyderabad,Biscuits,Snacks,8,15,25,Wallet,Member
+10435,03/12/2025,B,Warangal,Tea,Beverage,6,60,85,Cash,Member
+10436,2025-12-19,A,Hyderabad,Soap,Personal Care,4,20,35,Wallet,Member
+10437,2025-07-30,D,Visakhapatnam,Milk,Dairy,7,30,42,Card,Normal
+10438,2025-03-08,A,Hyderabad,Juice,Beverage,2,25,40,Wallet,Member
+10439,04-10-2025,A,Hyderabad,Biscuits,Snacks,7,15,25,Card,Member
+10440,2025-12-11,A,Hyderabad,Rice,Grocery,5,40,55,Card,Normal
+10441,08-03-2025,A,Hyderabad,Biscuits,Snacks,10,15,25,Card,Normal
+10442,05-11-2025,C,Vijayawada,Shampoo,Personal Care,10,80,120,Cash,Normal
+10443,20/06/2025,B,Warangal,Soap,Personal Care,5,20,35,Card,Member
+10444,02/09/2025,B,Warangal,Milk,Dairy,9,30,42,Cash,Normal
+10445,2025-01-01,C,Vijayawada,Juice,Beverage,6,25,40,Cash,Member
+10446,10/01/2025,B,Warangal,Shampoo,Personal Care,3,80,120,Wallet,Normal
+10447,2025-01-21,A,Hyderabad,Shampoo,Personal Care,8,,120,Cash,Normal
+10448,04-11-2025,A,Hyderabad,Shampoo,Personal Care,7,80,120,Cash,Member
+10449,09/02/2025,A,Hyderabad,Juice,Beverage,6,25,40,Wallet,Normal
+10451,09-01-2025,C,Vijayawada,Milk,Dairy,9,30,42,Wallet,Normal
+10452,28/11/2025,B,Warangal,Soap,Personal Care,6,20,35,UPI,Normal
+10453,25/09/2025,A,Hyderabad,Shampoo,Personal Care,6,80,120,UPI,Member
+10454,2025-12-09,B,Warangal,Soap,Personal Care,3,20,35,Wallet,Normal
+10455,2025-11-07,C,Vijayawada,Shampoo,Personal Care,7,80,120,Card,Normal
+10457,02-14-2025,B,Warangal,Shampoo,Personal Care,3,80,120,Wallet,Normal
+10458,03-05-2025,A,Hyderabad,Biscuits,Snacks,7,15,25,Cash,Normal
+10460,2025-06-07,D,Visakhapatnam,Rice,Grocery,2,40,55,Card,Normal
+10461,2025-04-11,B,Warangal,Soap,Personal Care,10,20,35,UPI,Normal
+10462,2025-07-28,A,Hyderabad,Tea,Beverage,1,60,85,Cash,Normal
+10463,15/03/2025,B,Warangal,Soap,Personal Care,7,20,35,Card,Normal
+10464,21/08/2025,A,Hyderabad,Soap,Personal Care,9,20,35,Wallet,Normal
+10465,01/01/2025,C,Vijayawada,Soap,Personal Care,8,20,35,Wallet,Normal
+10466,03-16-2025,A,Hyderabad,Shampoo,Personal Care,6,80,120,Cash,Normal
+10467,2025-02-02,B,Warangal,Soap,Personal Care,8,20,35,Cash,Member
+10468,2025-07-07,C,Vijayawada,Tea,Beverage,1,60,85,Wallet,Member
+10469,2025-07-21,A,Hyderabad,Tea,Beverage,1,60,55,UPI,Member
+10470,2025-08-12,C,Vijayawada,Biscuits,Snacks,2,15,25,UPI,Normal
+10471,01-05-2025,B,Warangal,Rice,Grocery,1,40,55,UPI,Normal
+10472,06-13-2025,B,Warangal,Soap,Personal Care,4,20,35,UPI,Member
+10473,2025-12-22,C,Vijayawada,Tea,Beverage,9,60,85,Wallet,Normal
+10474,07-26-2025,D,Visakhapatnam,Soap,Personal Care,2,20,35,Card,Normal
+10475,15/03/2025,B,Warangal,Milk,Dairy,5,30,42,UPI,Member
+10476,06-29-2025,A,Hyderabad,Rice,Grocery,2,40,55,Wallet,Normal
+10477,2025-01-14,A,Hyderabad,Biscuits,Snacks,10,15,25,Wallet,Normal
+10478,07/01/2025,C,Vijayawada,Milk,Dairy,9,30,42,Cash,Member
+10479,2025-07-03,A,Hyderabad,Shampoo,Personal Care,10,80,120,UPI,Normal
+10480,05-29-2025,A,Hyderabad,Rice,Grocery,3,40,55,Cash,Member
+10481,2025-08-03,D,Visakhapatnam,Soap,Personal Care,6,20,35,Cash,Normal
+10482,2025-07-11,C,Vijayawada,Soap,Personal Care,9,20,35,Card,Member
+10483,08-20-2025,C,Vijayawada,Soap,Personal Care,4,20,35,Cash,Normal
+10484,2025-04-11,A,Hyderabad,Juice,Beverage,2,25,40,UPI,Member
+10486,2025-02-26,A,Hyderabad,Juice,Beverage,3,25,40,Cash,Normal
+10487,2025-11-14,B,Warangal,Tea,Beverage,4,60,85,Wallet,Normal
+10488,11-14-2025,C,Vijayawada,Juice,Beverage,2,25,40,Wallet,Normal
+10489,02-09-2025,C,Vijayawada,Shampoo,Personal Care,4,80,120,Cash,Normal
+10490,02-12-2025,A,Hyderabad,Biscuits,Snacks,5,15,25,Cash,Normal
+10492,,C,Vijayawada,Rice,Grocery,8,40,55,Card,Normal
+10493,10-14-2025,B,Warangal,Biscuits,Snacks,4,15,25,UPI,Normal
+10494,07-15-2025,A,Hyderabad,Rice,Grocery,7,40,55,UPI,Normal
+10496,09-16-2025,C,Vijayawada,Rice,Grocery,1,40,55,Cash,Member
+10497,03/07/2025,B,Warangal,Shampoo,Personal Care,6,80,120,Card,Normal
+10498,27/12/2025,D,Visakhapatnam,Rice,Grocery,6,40,55,Wallet,Normal
+10499,02-20-2025,A,Hyderabad,Milk,Dairy,9,30,42,Cash,Normal
+10500,31/12/2025,A,Hyderabad,Milk,Dairy,7,30,42,Wallet,Normal
+10501,09-02-2025,C,Vijayawada,Juice,Beverage,6,25,40,Cash,Normal
+10502,04-10-2025,A,Hyderabad,Juice,Beverage,3,25,40,Cash,Member
+10503,09-25-2025,B,Warangal,Soap,Personal Care,1,20,35,Wallet,Normal
+10506,2025-11-01,C,Vijayawada,Milk,Dairy,9,30,25,Card,Member
+10507,2025-09-26,C,Vijayawada,Shampoo,Personal Care,3,80,120,UPI,Normal
+10508,30/07/2025,C,Vijayawada,Tea,Beverage,7,60,85,Card,Member
+10509,08-17-2025,D,Visakhapatnam,Juice,Beverage,3,25,40,Card,Member
+10510,2025-04-19,B,Warangal,Rice,Grocery,9,40,55,Wallet,Normal
+10511,11-16-2025,A,Hyderabad,Rice,Grocery,8,40,55,Cash,Normal
+10512,2025-05-30,D,Visakhapatnam,Biscuits,Snacks,1,15,25,Cash,Member
+10513,09-09-2025,A,Hyderabad,Milk,Dairy,6,30,42,Card,Member
+10514,09-08-2025,A,Hyderabad,Rice,Grocery,9,40,55,Wallet,Member
+10516,2025-02-03,B,Warangal,Milk,Dairy,8,30,42,UPI,Normal
+10519,2025-01-09,D,Visakhapatnam,Milk,Dairy,5,30,42,Card,Normal
+10521,16/01/2025,D,Visakhapatnam,Milk,Dairy,2,30,42,Cash,Member
+10522,29/06/2025,C,Vijayawada,Shampoo,Personal Care,5,80,120,UPI,Member
+10523,13/02/2025,C,Vijayawada,Soap,Personal Care,7,20,15,UPI,Normal
+10524,17/11/2025,D,Visakhapatnam,Milk,Dairy,9,30,42,Wallet,Member
+10525,12-12-2025,B,Warangal,Soap,Personal Care,4,20,35,UPI,Member
+10526,12-08-2025,B,Warangal,Rice,Grocery,8,40,55,Cash,Member
+10527,21/02/2025,D,Visakhapatnam,Juice,Beverage,9,25,40,Wallet,Normal
+10528,04-30-2025,C,Vijayawada,Biscuits,Snacks,8,15,25,UPI,Member
+10529,05-31-2025,D,Visakhapatnam,Tea,Beverage,10,60,85,Card,Member
+10530,10/03/2025,D,Visakhapatnam,Shampoo,Personal Care,4,80,120,Cash,Normal
+10531,07-12-2025,D,Visakhapatnam,Oil ,Grocery,4,90,120,Wallet,Normal
+10532,2025-12-31,D,Visakhapatnam,Shampoo,Personal Care,1,80,120,Cash,Normal
+10533,2025-02-07,A,Hyderabad,Milk,Dairy,1,30,42,Wallet,Member
+10534,2025-03-28,B,Warangal,Soap,Personal Care,9,20,35,Cash,Normal
+10535,09-02-2025,D,Visakhapatnam,Juice,Beverage,5,25,20,Wallet,Normal
+10536,2025-12-10,D,Visakhapatnam,Juice,Beverage,5,25,40,Wallet,Member
+10537,10-08-2025,A,Hyderabad,Biscuits,Snacks,8,15,25,Wallet,Member
+10539,2025-10-11,B,Warangal,Biscuits,Snacks,9,15,25,UPI,Member
+10540,08-22-2025,A,Hyderabad,Shampoo,Personal Care,5,80,120,Card,Normal
+10541,2025-04-24,A,Hyderabad,Oil ,Grocery,6,90,120,Wallet,Member
+10543,01-02-2025,B,Warangal,Milk,Dairy,3,30,42,UPI,Normal
+10544,2025-11-04,C,Vijayawada,Biscuits,Snacks,4,15,25,Cash,Normal
+10546,24/05/2025,A,Hyderabad,Juice,Beverage,5,25,40,Card,Normal
+10548,28/04/2025,A,Hyderabad,Tea,Beverage,8,60,85,UPI,Normal
+10549,22/08/2025,A,Hyderabad,Tea,Beverage,10,60,85,Cash,Member
+10551,03-27-2025,C,Vijayawada,Rice,Grocery,7,40,55,Wallet,Member
+10552,02-10-2025,B,Warangal,Milk,Dairy,8,30,42,UPI,Member
+10553,06/08/2025,C,Vijayawada,Milk,Dairy,10,30,42,Cash,Normal
+10554,12/04/2025,A,Hyderabad,Shampoo,Personal Care,2,80,120,Cash,Member
+10555,,D,Visakhapatnam,Soap,Personal Care,8,20,35,Wallet,Member
+10557,2025-12-21,B,Warangal,Biscuits,Snacks,4,15,25,Wallet,Normal
+10558,07-14-2025,A,Hyderabad,Milk,Dairy,3,30,42,Wallet,Normal
+10559,07/08/2025,B,Warangal,Rice,Grocery,7,40,55,Wallet,Normal
+10560,2025-10-07,C,Vijayawada,Juice,Beverage,1,25,40,Wallet,Member
+10561,04-17-2025,A,Hyderabad,Shampoo,Personal Care,7,80,120,Cash,Member
+10562,11-12-2025,C,Vijayawada,Soap,Personal Care,9,20,35,Wallet,Member
+10564,08-30-2025,D,Visakhapatnam,Rice,Grocery,7,40,55,Card,Member
+10565,2025-04-08,B,Warangal,Milk,Dairy,6,30,42,Card,Normal
+10567,09/02/2025,D,Visakhapatnam,Soap,Personal Care,9,20,35,Wallet,Member
+10568,2025-08-28,D,Visakhapatnam,Shampoo,Personal Care,7,80,120,UPI,Normal
+10569,08-09-2025,B,Warangal,Milk,Dairy,7,30,42,Card,Member
+10570,30/09/2025,A,Hyderabad,Soap,Personal Care,8,20,35,Cash,Member
+10571,09-14-2025,A,Hyderabad,Shampoo,Personal Care,10,80,120,Card,Normal
+10572,08/10/2025,A,Hyderabad,Rice,Grocery,3,40,55,Wallet,Member
+10573,2025-08-06,C,Vijayawada,Soap,Personal Care,3,20,35,Wallet,Normal
+10574,13/06/2025,B,Warangal,Soap,Personal Care,4,20,35,Card,Normal
+10576,2025-09-16,B,Warangal,Biscuits,Snacks,8,15,25,Cash,Member
+10577,25/04/2025,B,Warangal,Milk,Dairy,4,30,42,Cash,Member
+10578,2025-05-13,C,Vijayawada,Juice,Beverage,3,25,40,UPI,Member
+10579,25/11/2025,B,Warangal,Biscuits,Snacks,5,15,25,Cash,Member
+10581,15/01/2025,D,Visakhapatnam,Biscuits,Snacks,3,15,25,Cash,Member
+10582,25/10/2025,A,Hyderabad,Soap,Personal Care,7,20,35,Wallet,Member
+10583,10-03-2025,D,Visakhapatnam,Tea,Beverage,3,60,85,Wallet,Member
+10587,12-21-2025,B,Warangal,Rice,Grocery,7,40,55,Cash,Normal
+10588,03-25-2025,D,Visakhapatnam,Rice,Grocery,6,40,55,Cash,Member
+10589,2025-07-31,C,Vijayawada,Biscuits,Snacks,8,15,25,Card,Member
+10590,21/09/2025,A,Hyderabad,Soap,Personal Care,6,20,35,Wallet,Normal
+10591,02-23-2025,D,Visakhapatnam,Juice,Beverage,7,25,40,Wallet,Normal
+10592,2025-09-16,C,Vijayawada,Soap,Personal Care,5,20,35,Card,Member
+10594,,A,Hyderabad,Milk,Dairy,4,30,42,Wallet,Member
+10595,18/06/2025,B,Warangal,Juice,Beverage,3,25,40,Card,Normal
+10596,2025-12-29,D,Visakhapatnam,Biscuits,Snacks,3,15,25,UPI,Member
+10597,06/12/2025,C,Vijayawada,Milk,Dairy,4,30,42,Card,Normal
+10598,14/05/2025,B,Warangal,Biscuits,Snacks,2,15,25,UPI,Member
+10599,11-21-2025,A,Hyderabad,Milk,Dairy,5,30,42,Wallet,Member
+10600,11/12/2025,B,Warangal,Milk,Dairy,7,30,42,Card,Member
+10601,2025-01-17,C,Vijayawada,Rice,Grocery,8,40,55,Wallet,Member
+10602,06-21-2025,C,Vijayawada,Biscuits,Snacks,8,15,25,Cash,Normal
+10603,09-13-2025,A,Hyderabad,Shampoo,Personal Care,10,80,120,Card,Normal
+10604,22/01/2025,D,Visakhapatnam,Soap,Personal Care,7,20,35,Wallet,Member
+10605,2025-03-22,C,Vijayawada,Juice,Beverage,2,25,40,Card,Member
+10606,2025-11-08,D,Visakhapatnam,Shampoo,Personal Care,5,80,120,Cash,Normal
+10607,11-22-2025,C,Vijayawada,Juice,Beverage,4,25,40,Wallet,Normal
+10608,,B,Warangal,Shampoo,Personal Care,8,80,120,Wallet,Normal
+10609,2025-07-10,C,Vijayawada,Rice,Grocery,4,40,55,UPI,Normal
+10610,2025-01-30,D,Visakhapatnam,Biscuits,Snacks,3,,25,Cash,Normal
+10611,2025-03-12,C,Vijayawada,Milk,Dairy,8,30,42,Wallet,Normal
+10612,08-30-2025,B,Warangal,Soap,Personal Care,3,20,35,Cash,Normal
+10613,,D,Visakhapatnam,Shampoo,Personal Care,4,80,120,Card,Normal
+10615,09-17-2025,B,Warangal,Juice,Beverage,10,25,40,Cash,Member
+10616,04-09-2025,A,Hyderabad,Soap,Personal Care,5,20,35,UPI,Member
+10617,13/02/2025,C,Vijayawada,Rice,Grocery,10,40,55,Cash,Normal
+10618,01-19-2025,B,Warangal,Milk,Dairy,8,30,42,Cash,Normal
+10619,2025-05-30,A,Hyderabad,Milk,Dairy,6,30,42,Cash,Member
+10620,2025-01-18,D,Visakhapatnam,Tea,Beverage,9,60,85,UPI,Normal
+10622,2025-04-11,A,Hyderabad,Juice,Beverage,1,25,40,Cash,Normal
+10624,03-30-2025,C,Vijayawada,Soap,Personal Care,4,20,35,Card,Normal
+10625,2025-10-20,A,Hyderabad,Tea,Beverage,1,60,85,Wallet,Normal
+10627,2025-12-15,B,Warangal,Juice,Beverage,6,25,40,UPI,Normal
+10628,2025-12-03,D,Visakhapatnam,Rice,Grocery,3,40,55,Wallet,Member
+10630,26/09/2025,A,Hyderabad,Soap,Personal Care,7,20,35,Wallet,Member
+10631,20/11/2025,B,Warangal,Milk,Dairy,6,30,42,Wallet,Normal
+10632,09-20-2025,C,Vijayawada,Milk,Dairy,9,30,42,UPI,Member
+10633,2025-01-23,A,Hyderabad,Juice,Beverage,4,25,20,Cash,Member
+10634,11-17-2025,D,Visakhapatnam,Rice,Grocery,3,40,35,UPI,Normal
+10636,2025-07-19,C,Vijayawada,Shampoo,Personal Care,9,80,120,UPI,Normal
+10637,01-26-2025,A,Hyderabad,Rice,Grocery,9,40,55,Cash,Member
+10638,01-26-2025,B,Warangal,Soap,Personal Care,9,20,35,Wallet,Normal
+10639,12-01-2025,D,Visakhapatnam,Juice,Beverage,5,25,40,Wallet,Normal
+10640,2025-07-05,D,Visakhapatnam,Juice,Beverage,9,25,40,UPI,Member
+10642,2025-02-28,B,Warangal,Juice,Beverage,9,25,40,Wallet,Member
+10643,04-26-2025,C,Vijayawada,Rice,Grocery,2,40,55,Cash,Normal
+10644,08/08/2025,A,Hyderabad,Tea,Beverage,10,60,85,Card,Normal
+10645,2025-09-05,A,Hyderabad,Biscuits,Snacks,7,15,25,Wallet,Member
+10646,08-20-2025,D,Visakhapatnam,Rice,Grocery,2,40,55,Card,Normal
+10647,10/11/2025,B,Warangal,Soap,Personal Care,9,20,35,Card,Member
+10648,11-25-2025,D,Visakhapatnam,Rice,Grocery,9,40,55,Cash,Member
+10649,2025-01-28,A,Hyderabad,Milk,Dairy,3,30,42,Wallet,Member
+10650,11-01-2025,C,Vijayawada,Milk,Dairy,1,30,42,UPI,Member
+10651,09-27-2025,A,Hyderabad,Milk,Dairy,1,30,42,Cash,Member
+10652,05-20-2025,D,Visakhapatnam,Biscuits,Snacks,7,15,25,Wallet,Member
+10653,05/08/2025,A,Hyderabad,Milk,Dairy,1,30,42,UPI,Normal
+10654,2025-06-19,A,Hyderabad,Tea,Beverage,1,60,85,Cash,Normal
+10655,04-14-2025,D,Visakhapatnam,Rice,Grocery,4,40,55,UPI,Member
+10656,2025-01-01,A,Hyderabad,Shampoo,Personal Care,2,80,120,Cash,Member
+10657,10-25-2025,B,Warangal,Shampoo,Personal Care,4,80,75,Cash,Normal
+10658,2025-09-27,A,Hyderabad,Juice,Beverage,3,25,40,Wallet,Normal
+10659,31/08/2025,B,Warangal,Tea,Beverage,10,60,85,UPI,Normal
+10660,2025-08-07,B,Warangal,Juice,Beverage,8,25,40,UPI,Member
+10661,2025-11-03,B,Warangal,Juice,Beverage,10,25,40,Card,Normal
+10662,17/03/2025,A,Hyderabad,Soap,Personal Care,1,20,35,Card,Normal
+10663,,B,Warangal,Biscuits,Snacks,1,15,25,Wallet,Member
+10664,21/11/2025,C,Vijayawada,Soap,Personal Care,7,20,35,Wallet,Member
+10665,18/09/2025,D,Visakhapatnam,Tea,Beverage,9,60,85,UPI,Normal
+10666,06-23-2025,C,Vijayawada,Milk,Dairy,7,30,42,Cash,Normal
+10667,17/09/2025,B,Warangal,Tea,Beverage,6,60,85,UPI,Normal
+10668,2025-11-07,A,Hyderabad,Tea,Beverage,1,60,85,Cash,Normal
+10669,2025-08-18,B,Warangal,Soap,Personal Care,10,20,35,UPI,Member
+10670,10-05-2025,A,Hyderabad,Milk,Dairy,3,30,42,Wallet,Normal
+10672,08-06-2025,C,Vijayawada,Shampoo,Personal Care,10,80,120,Card,Normal
+10673,06-26-2025,A,Hyderabad,Biscuits,Snacks,2,15,25,Cash,Normal
+10674,04-14-2025,D,Visakhapatnam,Soap,Personal Care,10,20,35,UPI,Member
+10675,05/10/2025,C,Vijayawada,Soap,Personal Care,7,20,35,Card,Member
+10676,,C,Vijayawada,Milk,Dairy,8,30,42,Card,Normal
+10677,04/09/2025,C,Vijayawada,Juice,Beverage,7,25,40,Cash,Member
+10678,2025-02-22,D,Visakhapatnam,Soap,Personal Care,7,20,35,UPI,Member
+10679,31/07/2025,D,Visakhapatnam,Tea,Beverage,6,60,85,Card,Member
+10680,30/04/2025,C,Vijayawada,Juice,Beverage,6,25,40,Wallet,Member
+10681,2025-07-26,B,Warangal,Biscuits,Snacks,9,15,25,Card,Member
+10682,07-10-2025,A,Hyderabad,Soap,Personal Care,4,20,35,Card,Member
+10683,04-08-2025,C,Vijayawada,Biscuits,Snacks,6,15,25,Cash,Member
+10684,2025-05-18,C,Vijayawada,Tea,Beverage,1,,85,UPI,Normal
+10686,2025-07-31,C,Vijayawada,Milk,Dairy,3,30,42,Cash,Member
+10687,09-12-2025,D,Visakhapatnam,Juice,Beverage,10,,40,Cash,Normal
+10688,05-21-2025,B,Warangal,Biscuits,Snacks,1,15,25,UPI,Member
+10689,2025-11-30,A,Hyderabad,Biscuits,Snacks,10,15,25,Wallet,Normal
+10692,,C,Vijayawada,Shampoo,Personal Care,5,80,120,Wallet,Normal
+10693,10/09/2025,D,Visakhapatnam,Milk,Dairy,1,30,42,Wallet,Normal
+10694,2025-04-06,C,Vijayawada,Soap,Personal Care,2,20,35,Wallet,Normal
+10696,05-21-2025,D,Visakhapatnam,Biscuits,Snacks,10,,25,Card,Normal
+10697,2025-11-30,D,Visakhapatnam,Biscuits,Snacks,2,15,25,Card,Normal
+10698,2025-02-15,D,Visakhapatnam,Rice,Grocery,7,40,55,Wallet,Normal
+10699,2025-03-24,D,Visakhapatnam,Rice,Grocery,2,40,55,Card,Member
+10700,29/07/2025,D,Visakhapatnam,Rice,Grocery,7,40,55,Cash,Member
+10701,09-25-2025,B,Warangal,Milk,Dairy,10,30,42,Wallet,Normal
+10702,03-24-2025,A,Hyderabad,Milk,Dairy,2,30,42,UPI,Normal
+10703,2025-05-03,C,Vijayawada,Tea,Beverage,5,60,85,UPI,Member
+10704,24/12/2025,D,Visakhapatnam,Milk,Dairy,4,30,42,Wallet,Member
+10705,2025-04-20,A,Hyderabad,Soap,Personal Care,5,,35,Card,Normal
+10707,12-28-2025,C,Vijayawada,Juice,Beverage,3,25,40,Cash,Member
+10708,12-13-2025,B,Warangal,Biscuits,Snacks,6,15,25,Cash,Normal
+10709,2025-04-14,A,Hyderabad,Soap,Personal Care,4,20,35,Wallet,Member
+10710,05-17-2025,C,Vijayawada,Juice,Beverage,8,25,40,UPI,Member
+10711,18/12/2025,A,Hyderabad,Tea,Beverage,6,60,85,Cash,Member
+10712,2025-10-19,C,Vijayawada,Juice,Beverage,3,25,40,UPI,Normal
+10713,10-17-2025,C,Vijayawada,Soap,Personal Care,1,20,35,Card,Member
+10714,02/12/2025,B,Warangal,Rice,Grocery,1,40,55,UPI,Member
+10715,23/11/2025,C,Vijayawada,Tea,Beverage,7,60,85,UPI,Normal
+10716,21/06/2025,A,Hyderabad,Juice,Beverage,1,25,40,Card,Member
+10717,15/06/2025,C,Vijayawada,Soap,Personal Care,9,20,35,Wallet,Normal
+10718,,C,Vijayawada,Shampoo,Personal Care,5,80,120,Wallet,Member
+10722,01-29-2025,A,Hyderabad,Shampoo,Personal Care,3,80,120,Card,Normal
+10723,11-18-2025,C,Vijayawada,Rice,Grocery,3,40,55,Cash,Member
+10725,01-12-2025,C,Vijayawada,Biscuits,Snacks,2,15,25,Wallet,Member
+10727,19/06/2025,B,Warangal,Rice,Grocery,6,40,55,Cash,Normal
+10728,30/05/2025,A,Hyderabad,Tea,Beverage,2,60,85,UPI,Normal
+10729,12-11-2025,A,Hyderabad,Milk,Dairy,6,30,42,Cash,Normal
+10730,22/04/2025,D,Visakhapatnam,Juice,Beverage,8,25,40,UPI,Normal
+10731,18/04/2025,A,Hyderabad,Soap,Personal Care,9,20,35,UPI,Normal
+10732,2025-09-23,D,Visakhapatnam,Rice,Grocery,8,40,55,UPI,Member
+10733,02/07/2025,D,Visakhapatnam,Shampoo,Personal Care,5,80,120,Cash,Normal
+10734,05/11/2025,D,Visakhapatnam,Milk,Dairy,4,30,42,UPI,Normal
+10735,23/04/2025,B,Warangal,Biscuits,Snacks,6,15,25,Wallet,Member
+10736,2025-09-30,C,Vijayawada,Soap,Personal Care,5,20,35,UPI,Member
+10737,17/03/2025,B,Warangal,Juice,Beverage,8,25,40,Cash,Member
+10739,2025-03-19,A,Hyderabad,Rice,Grocery,6,40,55,Card,Normal
+10740,05-19-2025,C,Vijayawada,Soap,Personal Care,4,20,35,Wallet,Member
+10741,12-31-2025,A,Hyderabad,Milk,Dairy,2,30,42,Card,Member
+10742,09-06-2025,A,Hyderabad,Soap,Personal Care,9,20,35,Wallet,Member
+10743,11/04/2025,B,Warangal,Shampoo,Personal Care,10,,120,Card,Member
+10744,2025-11-13,D,Visakhapatnam,Shampoo,Personal Care,3,80,120,Wallet,Normal
+10745,03-15-2025,A,Hyderabad,Juice,Beverage,3,25,40,UPI,Member
+10746,09-22-2025,C,Vijayawada,Tea,Beverage,6,60,85,Cash,Normal
+10748,11/03/2025,C,Vijayawada,Milk,Dairy,4,30,42,UPI,Normal
+10749,13/03/2025,B,Warangal,Juice,Beverage,1,25,40,Wallet,Normal
+10750,01-31-2025,D,Visakhapatnam,Soap,Personal Care,8,20,35,Cash,Normal
+10751,04-16-2025,A,Hyderabad,Juice,Beverage,8,25,40,Card,Member
+10752,2025-12-07,B,Warangal,Soap,Personal Care,3,20,35,Wallet,Member
+10753,09/12/2025,B,Warangal,Tea,Beverage,3,60,85,UPI,Member
+10760,25/09/2025,D,Visakhapatnam,Oil ,Grocery,10,90,120,Cash,Member
+10761,08-05-2025,D,Visakhapatnam,Biscuits,Snacks,1,15,25,Card,Member
+10762,2025-08-11,A,Hyderabad,Biscuits,Snacks,10,15,25,Card,Normal
+10763,03-12-2025,B,Warangal,Milk,Dairy,3,30,42,Card,Member
+10764,2025-04-15,D,Visakhapatnam,Juice,Beverage,8,25,40,UPI,Member
+10765,06-30-2025,C,Vijayawada,Rice,Grocery,6,40,55,Card,Normal
+10767,27/01/2025,D,Visakhapatnam,Shampoo,Personal Care,7,80,120,Card,Member
+10768,10-14-2025,B,Warangal,Biscuits,Snacks,3,15,25,Wallet,Member
+10769,,D,Visakhapatnam,Juice,Beverage,9,25,40,UPI,Normal
+10770,2025-05-01,D,Visakhapatnam,Soap,Personal Care,7,20,35,Card,Normal
+10772,15/03/2025,A,Hyderabad,Shampoo,Personal Care,1,80,120,Wallet,Normal
+10774,2025-03-02,B,Warangal,Shampoo,Personal Care,4,80,120,Cash,Member
+10775,03/02/2025,A,Hyderabad,Soap,Personal Care,4,20,35,Card,Normal
+10776,24/08/2025,A,Hyderabad,Juice,Beverage,10,25,20,Wallet,Normal
+10777,2025-08-04,B,Warangal,Soap,Personal Care,7,20,35,Wallet,Normal
+10778,06-26-2025,D,Visakhapatnam,Tea,Beverage,8,60,85,Cash,Normal
+10779,04/10/2025,C,Vijayawada,Rice,Grocery,1,40,55,Card,Member
+10780,25/08/2025,D,Visakhapatnam,Juice,Beverage,9,25,40,Cash,Normal
+10781,2025-11-11,B,Warangal,Juice,Beverage,2,25,40,Card,Member
+10782,2025-03-22,D,Visakhapatnam,Soap,Personal Care,4,20,35,UPI,Member
+10783,09/01/2025,A,Hyderabad,Tea,Beverage,5,60,85,Card,Normal
+10784,29/09/2025,B,Warangal,Juice,Beverage,8,25,40,Wallet,Normal
+10785,2025-08-10,C,Vijayawada,Milk,Dairy,3,30,42,UPI,Normal
+10787,23/10/2025,D,Visakhapatnam,Tea,Beverage,2,60,85,Cash,Member
+10790,2025-09-06,C,Vijayawada,Juice,Beverage,3,25,40,UPI,Normal
+10791,2025-11-18,B,Warangal,Soap,Personal Care,2,20,35,Card,Normal
+10792,07-04-2025,A,Hyderabad,Shampoo,Personal Care,9,,120,Wallet,Normal
+10793,2025-03-23,D,Visakhapatnam,Soap,Personal Care,1,20,35,Cash,Member
+10794,29/05/2025,D,Visakhapatnam,Biscuits,Snacks,1,15,25,Card,Normal
+10795,01/04/2025,D,Visakhapatnam,Juice,Beverage,9,25,40,Cash,Normal
+10797,10-04-2025,A,Hyderabad,Juice,Beverage,2,25,40,UPI,Member
+10798,2025-05-04,C,Vijayawada,Rice,Grocery,1,40,55,Cash,Normal
+10803,29/09/2025,A,Hyderabad,Rice,Grocery,5,40,55,Card,Member
+10804,27/10/2025,D,Visakhapatnam,Rice,Grocery,4,40,55,UPI,Member
+10806,2025-01-29,A,Hyderabad,Soap,Personal Care,6,20,35,Wallet,Normal
+10807,07/12/2025,A,Hyderabad,Shampoo,Personal Care,7,80,120,Wallet,Member
+10808,,B,Warangal,Juice,Beverage,9,25,20,Card,Normal
+10809,02-01-2025,D,Visakhapatnam,Juice,Beverage,4,25,40,Cash,Member
+10810,2025-12-20,B,Warangal,Tea,Beverage,4,60,85,UPI,Member
+10811,2025-10-14,D,Visakhapatnam,Shampoo,Personal Care,3,80,120,Wallet,Member
+10812,2025-11-06,D,Visakhapatnam,Rice,Grocery,2,40,55,Wallet,Normal
+10814,2025-11-17,D,Visakhapatnam,Tea,Beverage,4,60,85,Card,Normal
+10815,2025-06-30,C,Vijayawada,Biscuits,Snacks,3,15,25,UPI,Normal
+10816,2025-04-26,A,Hyderabad,Juice,Beverage,5,25,40,Wallet,Member
+10817,2025-02-17,A,Hyderabad,Milk,Dairy,6,30,42,Cash,Normal
+10818,04-15-2025,B,Warangal,Rice,Grocery,8,40,35,UPI,Member
+10819,08-11-2025,B,Warangal,Soap,Personal Care,1,20,35,UPI,Normal
+10820,2025-02-03,D,Visakhapatnam,Milk,Dairy,1,30,42,UPI,Normal
+10821,2025-07-12,A,Hyderabad,Biscuits,Snacks,3,15,25,UPI,Normal
+10823,05-26-2025,A,Hyderabad,Soap,Personal Care,2,20,35,Cash,Normal
+10824,20/03/2025,C,Vijayawada,Juice,Beverage,10,25,40,UPI,Normal
+10826,01-04-2025,C,Vijayawada,Biscuits,Snacks,6,15,25,Wallet,Normal
+10827,15/07/2025,C,Vijayawada,Tea,Beverage,2,60,85,Wallet,Member
+10828,14/08/2025,C,Vijayawada,Juice,Beverage,7,25,40,UPI,Member
+10829,2025-03-13,D,Visakhapatnam,Milk,Dairy,1,30,42,Cash,Normal
+10830,2025-07-13,C,Vijayawada,Milk,Dairy,2,30,42,UPI,Normal
+10831,11-13-2025,D,Visakhapatnam,Shampoo,Personal Care,4,,120,Card,Member
+10832,03-21-2025,C,Vijayawada,Shampoo,Personal Care,7,80,120,Wallet,Member
+10833,,B,Warangal,Oil ,Grocery,3,90,120,Wallet,Member
+10834,25/03/2025,B,Warangal,Rice,Grocery,5,40,55,Cash,Member
+10835,12-05-2025,C,Vijayawada,Biscuits,Snacks,3,15,25,Cash,Normal
+10836,2025-12-06,A,Hyderabad,Tea,Beverage,6,60,85,UPI,Normal
+10837,2025-01-22,C,Vijayawada,Shampoo,Personal Care,1,80,120,Cash,Normal
+10838,2025-07-09,C,Vijayawada,Juice,Beverage,4,25,40,Card,Member
+10839,2025-11-15,C,Vijayawada,Rice,Grocery,4,40,55,Wallet,Member
+10840,19/12/2025,A,Hyderabad,Shampoo,Personal Care,3,80,120,UPI,Member
+10841,10-16-2025,D,Visakhapatnam,Soap,Personal Care,6,20,35,UPI,Member
+10843,10-14-2025,C,Vijayawada,Tea,Beverage,3,,85,Cash,Normal
+10844,16/12/2025,B,Warangal,Milk,Dairy,5,30,42,UPI,Normal
+10845,15/09/2025,D,Visakhapatnam,Juice,Beverage,7,25,40,Wallet,Member
+10846,01-28-2025,A,Hyderabad,Milk,Dairy,5,30,42,Cash,Member
+10847,13/05/2025,C,Vijayawada,Milk,Dairy,6,30,42,UPI,Normal
+10848,21/05/2025,B,Warangal,Biscuits,Snacks,10,,25,Cash,Member
+10849,2025-02-08,D,Visakhapatnam,Biscuits,Snacks,7,15,25,UPI,Normal
+10852,03-20-2025,A,Hyderabad,Shampoo,Personal Care,2,80,120,Cash,Normal
+10853,09-21-2025,C,Vijayawada,Soap,Personal Care,1,20,15,Cash,Normal
+10855,15/01/2025,D,Visakhapatnam,Biscuits,Snacks,7,15,25,Wallet,Normal
+10856,2025-08-18,A,Hyderabad,Soap,Personal Care,5,20,35,Cash,Member
+10857,12/12/2025,B,Warangal,Milk,Dairy,4,30,42,Card,Member
+10858,08-01-2025,A,Hyderabad,Soap,Personal Care,6,20,35,Cash,Member
+10859,2025-06-18,A,Hyderabad,Shampoo,Personal Care,2,80,120,Wallet,Member
+10861,09-26-2025,D,Visakhapatnam,Tea,Beverage,9,,85,Card,Normal
+10862,2025-06-19,C,Vijayawada,Biscuits,Snacks,6,15,25,Wallet,Member
+10863,2025-02-12,B,Warangal,Tea,Beverage,8,60,85,Cash,Normal
+10864,05/03/2025,D,Visakhapatnam,Milk,Dairy,7,30,42,UPI,Member
+10865,12-13-2025,A,Hyderabad,Rice,Grocery,1,40,55,Cash,Member
+10866,2025-08-01,C,Vijayawada,Biscuits,Snacks,5,15,25,Card,Normal
+10867,17/09/2025,A,Hyderabad,Shampoo,Personal Care,4,80,120,Wallet,Member
+10869,2025-11-11,B,Warangal,Milk,Dairy,5,30,42,Wallet,Member
+10870,02-14-2025,D,Visakhapatnam,Shampoo,Personal Care,3,80,120,Card,Normal
+10871,12-14-2025,A,Hyderabad,Soap,Personal Care,5,20,35,Wallet,Member
+10872,21/08/2025,D,Visakhapatnam,Juice,Beverage,10,25,40,Wallet,Member
+10874,25/07/2025,B,Warangal,Shampoo,Personal Care,1,80,120,UPI,Member
+10875,2025-05-17,D,Visakhapatnam,Soap,Personal Care,4,20,35,UPI,Member
+10877,06/11/2025,A,Hyderabad,Shampoo,Personal Care,2,80,120,Cash,Normal
+10878,2025-11-26,D,Visakhapatnam,Shampoo,Personal Care,1,80,120,Cash,Normal
+10879,28/07/2025,B,Warangal,Rice,Grocery,6,40,55,Cash,Normal
+10880,01/11/2025,A,Hyderabad,Tea,Beverage,1,60,85,UPI,Normal
+10881,05-09-2025,C,Vijayawada,Soap,Personal Care,2,20,35,Card,Normal
+10882,06/06/2025,A,Hyderabad,Biscuits,Snacks,10,15,25,Wallet,Normal
+10883,2025-06-21,D,Visakhapatnam,Biscuits,Snacks,7,15,25,Wallet,Member
+10884,2025-01-23,D,Visakhapatnam,Biscuits,Snacks,6,15,25,UPI,Normal
+10885,26/09/2025,D,Visakhapatnam,Tea,Beverage,1,60,85,UPI,Member
+10887,11-30-2025,C,Vijayawada,Shampoo,Personal Care,7,80,120,Cash,Member
+10888,26/04/2025,C,Vijayawada,Soap,Personal Care,6,20,35,Wallet,Normal
+10891,12-18-2025,B,Warangal,Biscuits,Snacks,10,15,25,Wallet,Member
+10892,,D,Visakhapatnam,Soap,Personal Care,8,20,35,Wallet,Normal
+10893,04-29-2025,C,Vijayawada,Soap,Personal Care,7,20,35,Card,Member
+10894,12-14-2025,B,Warangal,Shampoo,Personal Care,3,80,120,Cash,Normal
+10895,2025-11-28,D,Visakhapatnam,Tea,Beverage,1,60,85,Wallet,Normal
+10896,2025-12-11,B,Warangal,Juice,Beverage,8,25,40,UPI,Normal
+10897,2025-06-18,C,Vijayawada,Shampoo,Personal Care,4,80,120,Card,Normal
+10898,2025-03-21,B,Warangal,Tea,Beverage,4,60,85,UPI,Member
+10900,30/03/2025,D,Visakhapatnam,Rice,Grocery,2,40,55,Cash,Member
+10901,11-03-2025,B,Warangal,Juice,Beverage,5,25,40,Wallet,Member
+10902,2025-12-04,D,Visakhapatnam,Biscuits,Snacks,1,15,25,Wallet,Normal
+10903,2025-05-05,B,Warangal,Juice,Beverage,10,25,40,Wallet,Normal
+10904,12-22-2025,A,Hyderabad,Tea,Beverage,9,60,85,Wallet,Normal
+10905,10/07/2025,A,Hyderabad,Biscuits,Snacks,7,15,25,Wallet,Member
+10907,2025-05-29,A,Hyderabad,Shampoo,Personal Care,1,80,120,Card,Normal
+10908,12/10/2025,C,Vijayawada,Biscuits,Snacks,8,15,25,Card,Normal
+10909,2025-06-12,A,Hyderabad,Juice,Beverage,6,25,40,Wallet,Member
+10910,2025-07-26,A,Hyderabad,Shampoo,Personal Care,1,80,120,Cash,Normal
+10912,2025-05-24,B,Warangal,Tea,Beverage,9,60,85,Wallet,Normal
+10913,08-21-2025,A,Hyderabad,Tea,Beverage,10,60,85,Card,Member
+10914,23/11/2025,C,Vijayawada,Soap,Personal Care,9,20,35,UPI,Member
+10915,02-14-2025,D,Visakhapatnam,Juice,Beverage,7,25,40,Cash,Normal
+10916,22/01/2025,A,Hyderabad,Juice,Beverage,7,25,40,UPI,Normal
+10917,22/09/2025,C,Vijayawada,Shampoo,Personal Care,8,80,120,Card,Member
+10919,2025-05-03,D,Visakhapatnam,Rice,Grocery,7,40,55,Card,Normal
+10920,2025-04-17,D,Visakhapatnam,Juice,Beverage,10,25,40,UPI,Member
+10921,03/02/2025,A,Hyderabad,Shampoo,Personal Care,7,80,75,Wallet,Normal
+10922,23/04/2025,D,Visakhapatnam,Rice,Grocery,7,40,55,Card,Normal
+10923,29/09/2025,B,Warangal,Juice,Beverage,2,25,40,Cash,Normal
+10924,2025-09-27,C,Vijayawada,Soap,Personal Care,8,20,35,Cash,Normal
+10925,26/01/2025,D,Visakhapatnam,Soap,Personal Care,8,20,35,UPI,Normal
+10926,2025-01-04,B,Warangal,Rice,Grocery,5,40,55,Wallet,Member
+10927,19/05/2025,B,Warangal,Tea,Beverage,3,60,85,UPI,Normal
+10928,03/06/2025,C,Vijayawada,Rice,Grocery,10,40,55,Cash,Member
+10929,03/06/2025,C,Vijayawada,Rice,Grocery,7,40,55,Cash,Normal
+10930,,C,Vijayawada,Biscuits,Snacks,7,15,25,Cash,Member
+10932,10/02/2025,A,Hyderabad,Milk,Dairy,1,30,42,Cash,Member
+10933,05-25-2025,C,Vijayawada,Tea,Beverage,9,60,85,UPI,Member
+10934,,A,Hyderabad,Rice,Grocery,4,40,55,UPI,Member
+10935,2025-07-17,A,Hyderabad,Tea,Beverage,3,60,85,Wallet,Member
+10936,09-25-2025,B,Warangal,Soap,Personal Care,2,20,35,Cash,Normal
+10937,22/05/2025,C,Vijayawada,Tea,Beverage,6,60,85,Cash,Member
+10938,01-25-2025,C,Vijayawada,Shampoo,Personal Care,10,80,120,Wallet,Member
+10939,2025-08-11,B,Warangal,Tea,Beverage,1,60,85,UPI,Member
+10940,2025-05-20,C,Vijayawada,Juice,Beverage,5,25,40,Wallet,Member
+10941,2025-10-11,B,Warangal,Soap,Personal Care,8,,35,Cash,Normal
+10943,2025-04-11,A,Hyderabad,Soap,Personal Care,4,20,35,Card,Member
+10944,2025-03-01,A,Hyderabad,Juice,Beverage,4,25,40,Cash,Member
+10946,07/01/2025,A,Hyderabad,Soap,Personal Care,5,20,35,Card,Normal
+10948,17/07/2025,A,Hyderabad,Rice,Grocery,8,40,55,Wallet,Member
+10949,03/06/2025,B,Warangal,Juice,Beverage,7,25,40,Wallet,Member
+10950,03/12/2025,A,Hyderabad,Tea,Beverage,8,60,85,Card,Member
+10951,10-07-2025,B,Warangal,Juice,Beverage,4,25,40,Wallet,Normal
+10952,16/06/2025,D,Visakhapatnam,Biscuits,Snacks,6,15,25,Card,Normal
+10953,10-26-2025,B,Warangal,Juice,Beverage,8,25,40,Cash,Member
+10954,21/12/2025,D,Visakhapatnam,Soap,Personal Care,5,20,35,UPI,Normal
+10955,2025-07-23,A,Hyderabad,Milk,Dairy,10,30,42,Wallet,Normal
+10956,01/02/2025,C,Vijayawada,Soap,Personal Care,6,20,35,UPI,Normal
+10957,08-31-2025,D,Visakhapatnam,Tea,Beverage,4,60,85,UPI,Member
+10958,2025-10-26,B,Warangal,Shampoo,Personal Care,8,80,120,UPI,Member
+10959,30/09/2025,D,Visakhapatnam,Shampoo,Personal Care,2,80,120,Cash,Normal
+10960,2025-10-10,B,Warangal,Juice,Beverage,1,25,40,Cash,Member
+10962,11/03/2025,B,Warangal,Rice,Grocery,4,,55,Wallet,Normal
+10963,10/11/2025,A,Hyderabad,Biscuits,Snacks,10,15,25,Wallet,Normal
+10964,11/09/2025,B,Warangal,Rice,Grocery,2,40,55,Cash,Member
+10965,2025-09-16,B,Warangal,Tea,Beverage,3,60,85,Card,Normal
+10966,11-16-2025,D,Visakhapatnam,Soap,Personal Care,10,20,35,Card,Normal
+10967,08-30-2025,D,Visakhapatnam,Shampoo,Personal Care,1,80,120,UPI,Member
+10969,06-30-2025,D,Visakhapatnam,Tea,Beverage,9,60,85,Card,Normal
+10970,17/10/2025,D,Visakhapatnam,Rice,Grocery,1,40,55,Cash,Normal
+10971,2025-08-06,C,Vijayawada,Biscuits,Snacks,10,15,25,Card,Member
+10972,04/10/2025,D,Visakhapatnam,Rice,Grocery,7,40,55,Wallet,Member
+10973,11-13-2025,A,Hyderabad,Juice,Beverage,5,25,40,Card,Normal
+10975,2025-07-29,A,Hyderabad,Biscuits,Snacks,9,15,25,Card,Normal
+10976,21/07/2025,C,Vijayawada,Soap,Personal Care,4,20,15,UPI,Member
+10977,2025-02-10,A,Hyderabad,Milk,Dairy,8,30,42,Cash,Member
+10978,01-01-2025,A,Hyderabad,Biscuits,Snacks,9,15,25,Card,Normal
+10979,2025-12-21,B,Warangal,Rice,Grocery,6,40,55,Cash,Member
+10980,28/09/2025,A,Hyderabad,Tea,Beverage,6,60,85,Wallet,Normal
+10981,2025-04-03,A,Hyderabad,Milk,Dairy,5,30,42,Card,Member
+10983,11-17-2025,C,Vijayawada,Tea,Beverage,2,60,85,UPI,Member
+10984,12-06-2025,A,Hyderabad,Biscuits,Snacks,3,15,25,Card,Member
+10986,28/08/2025,D,Visakhapatnam,Rice,Grocery,2,40,55,UPI,Normal
+10987,08/10/2025,B,Warangal,Rice,Grocery,4,40,55,Cash,Normal
+10988,,C,Vijayawada,Rice,Grocery,4,40,55,Cash,Normal
+10989,12/06/2025,B,Warangal,Tea,Beverage,6,60,85,Cash,Normal
+10990,,D,Visakhapatnam,Milk,Dairy,10,30,42,Wallet,Normal
+10991,07/08/2025,B,Warangal,Shampoo,Personal Care,1,80,120,Wallet,Normal
+10993,2025-02-06,A,Hyderabad,Shampoo,Personal Care,1,80,120,UPI,Member
+10994,04-28-2025,D,Visakhapatnam,Juice,Beverage,7,25,40,Cash,Member
+10995,2025-01-28,C,Vijayawada,Biscuits,Snacks,6,15,25,Wallet,Member
+10996,2025-09-29,D,Visakhapatnam,Shampoo,Personal Care,10,80,120,Cash,Member
+10997,12-27-2025,A,Hyderabad,Milk,Dairy,10,30,42,Wallet,Member
+10999,21/11/2025,A,Hyderabad,Milk,Dairy,6,30,42,Card,Member
+11000,28/06/2025,A,Hyderabad,Milk,Dairy,7,30,42,Card,Member
