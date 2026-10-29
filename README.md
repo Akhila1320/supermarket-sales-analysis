@@ -1,22 +1,35 @@
-# Supermarket Sales Analysis
+# Supermarket Sales & Profit Analysis
 
-## Project Overview
+## 1. Project Overview
 
-This project analyzes supermarket sales data using Python and Pandas.
+This project analyzes supermarket sales data to understand sales performance, product performance, customer purchasing behavior, payment preferences, branch performance, and profitability.
 
-The objective is to understand sales performance, customer behavior, product performance, payment methods, branch performance, and profitability.
+The project uses Python for data analysis and Power BI to create an interactive dashboard that presents business insights visually.
 
-## Tools Used
+## 2. Project Objectives
+
+- Analyze total sales and profit.
+- Identify the best-performing cities and branches.
+- Compare sales across product categories and products.
+- Understand customer purchasing behavior.
+- Analyze payment method preferences.
+- Track monthly sales performance.
+- Identify opportunities to improve business performance.
+
+## 3. Tools and Technologies
 
 - Python
 - Pandas
-- VS Code
+- Matplotlib
+- Power BI
+- Power Query
 - Git
 - GitHub
+- Visual Studio Code
 
-## Dataset
+## 4. Dataset Description
 
-The project uses a supermarket sales dataset containing information about:
+The dataset contains supermarket transaction information, including:
 
 - Order ID
 - Date
@@ -30,73 +43,88 @@ The project uses a supermarket sales dataset containing information about:
 - Payment Method
 - Customer Type
 
-## Analysis Performed
+The data was cleaned and prepared for analysis before creating visualizations.
 
-The project answers 15 business questions:
+## 5. Python Data Analysis
 
-1. Total Orders
-2. Total Units Sold
-3. Total Cities
-4. Total Categories
-5. Customer Type Distribution
-6. Total Sales
-7. Sales by City
-8. Sales by Category
-9. Sales by Product
-10. Most Used Payment Method
-11. Sales by Branch
-12. Total Profit
-13. Profit by Category
-14. Top 5 Products
-15. Average Order Value
+Python and Pandas were used to analyze the dataset and answer 15 business questions.
 
-## Key Results
+The analysis covered:
 
-| Metric | Result |
-|---|---:|
-| Total Orders | 839 |
-| Total Units | 4,556 |
-| Total Cities | 4 |
-| Total Categories | 5 |
-| Normal Customers | 443 |
-| Member Customers | 396 |
-| Total Sales | 255,547 |
-| Total Profit | 79,544 |
-| Average Order Value | 304.59 |
+1. Total number of orders.
+2. Total quantity of units sold.
+3. Number of cities.
+4. Number of product categories.
+5. Member versus Normal customer distribution.
+6. Total sales revenue.
+7. Sales by city.
+8. Sales by product category.
+9. Sales by product.
+10. Most frequently used payment methods.
+11. Sales by branch.
+12. Total profit.
+13. Profit by product category.
+14. Top five products by sales.
+15. Average order value.
 
-## Top Findings
+## 6. Power BI Dashboard
 
-### Highest Sales City
-Hyderabad — 71,358
+An interactive Power BI dashboard was developed to visualize sales and profitability.
 
-### Highest Sales Category
-Personal Care — 105,940
+The dashboard includes:
 
-### Highest Sales Product
-Shampoo — 78,960
+- Total Sales
+- Total Profit
+- Total Orders
+- Profit Margin
+- Sales by City
+- Sales by Branch
+- Sales by Category
+- Profit by Category
+- Sales by Product
+- Quantity by Product
+- Sales by Payment Method
+- Sales by Customer Type
+- Monthly Sales Trend
 
-### Most Used Payment Method
-Wallet — 223 transactions
+Interactive slicers allow users to filter the dashboard by payment method, city, and category.
 
-### Highest Sales Branch
-Branch A — 71,358
+## 7. Key Findings
 
-### Highest Profit Category
-Personal Care — 34,910
+The Python analysis identified the following results:
 
-### Top 5 Products by Sales
+- Total orders: 839
+- Total sales: 255,547
+- Total units sold: 4,556
+- Number of cities: 4
+- Number of product categories: 5
+- Average order value: approximately 304.59
 
-1. Shampoo — 78,960
-2. Tea — 48,250
-3. Rice — 30,395
-4. Juice — 27,000
-5. Soap — 26,980
+Hyderabad recorded the highest sales among the four cities. Personal Care was the highest-selling category by revenue, and Shampoo was the highest-selling product by revenue.
 
-## Project Structure
+## 8. Project Files
 
-```text
-supermarket-sales-analysis/
-│
-├── analysis.py
-├── sales_data.csv
-└── README.md
+- `analysis.py` — Python analysis and visualizations.
+- `sales_data.csv` — Dataset used for analysis.
+- `sales_analysis power bi.pbix` — Power BI dashboard file.
+- `README.md` — Project documentation.
+
+## 9. Skills Demonstrated
+
+- Data cleaning and preparation
+- Exploratory data analysis
+- Data aggregation using Pandas
+- Business question analysis
+- Data visualization using Matplotlib
+- Power BI dashboard development
+- KPI reporting
+- Git and GitHub version control
+- Business insights and reporting
+
+## 10. Conclusion
+
+This project demonstrates how supermarket transaction data can be analyzed using Python and presented through an interactive Power BI dashboard to support business understanding and decision-making.
+
+**Author:** Akhila Boini
+
+**GitHub Repository:** [Supermarket Sales Analysis](https://github.com/Akhila1320/supermarket-sales-analysis)
